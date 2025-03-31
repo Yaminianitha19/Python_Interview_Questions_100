@@ -10,7 +10,7 @@
 
 ![alt text](image-2.png)
 
-<!-- How can ypu concatenate two tuples -->
+<!-- How can you concatenate two tuples -->
 
 t1 = (1,"abc",True)
 t2 = (2,4,7)
@@ -19,7 +19,7 @@ print(t1 + t2)
 <!-- what are functions in python -->
 
 ![alt text](image-3.png)
-example:
+example:   
 <!--  -->
     def greet(name):
     return f"Hello, {name}!"
@@ -107,6 +107,20 @@ It can also be used with other aggregate functions like .sum(), .count(), .max()
 ![alt text](image-18.png)
 <!-- horizondal stacking -->
 ![alt text](image-19.png)
+
+
+<!-- How to merge dataframes in pandas? -->
+![alt text](image-20.png)
+<!-- merging method -->
+![alt text](image-22.png)
+<!-- example -->
+
+![alt text](image-23.png)
+
+<!-- outer merge with example -->
+
+![alt text](image-24.png)
+
 
 
 
