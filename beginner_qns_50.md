@@ -84,6 +84,29 @@ print(df)  # Displaying the content
 <!-- what is the use of Pandas groupby() function? -->
 
 ![alt text](image-11.png)
+example:
+![alt text](image-12.png)
+<!-- Explanation: -->
+The groupby('Department') groups the data by the "Department" column.
+
+['Salary'].mean() calculates the average salary for each department.
+
+It can also be used with other aggregate functions like .sum(), .count(), .max(), .min(), etc.
+
+<!-- HOW to create dataframe from list -->
+![alt text](image-14.png)
+
+![alt text](image-13.png)
+
+<!-- how to combine dataframes using join() func -->
+
+![alt text](image-15.png)
+![alt text](image-16.png)
+![alt text](image-17.png)
+<!-- vertical stacking -->
+![alt text](image-18.png)
+<!-- horizondal stacking -->
+![alt text](image-19.png)
 
 
 
